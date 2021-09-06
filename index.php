@@ -80,6 +80,56 @@
                         <td>+<input type="number" class="nb"  id="montant10_1"placeholder="   €"></td>
                         <td>-<input type="number" class="nb" id="montant10_2" placeholder="   €"></td>
                     </tr>
+                    <tr>
+                        <td><input type="text" class="libelle" placeholder="..."></td>
+                        <td>+<input type="number" class="nb"  id="montant11_1"placeholder="   €"></td>
+                        <td>-<input type="number" class="nb" id="montant11_2" placeholder="   €"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" class="libelle" placeholder="..."></td>
+                        <td>+<input type="number" class="nb"  id="montant12_1"placeholder="   €"></td>
+                        <td>-<input type="number" class="nb" id="montant12_2" placeholder="   €"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" class="libelle" placeholder="..."></td>
+                        <td>+<input type="number" class="nb"  id="montant13_1"placeholder="   €"></td>
+                        <td>-<input type="number" class="nb" id="montant13_2" placeholder="   €"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" class="libelle" placeholder="..."></td>
+                        <td>+<input type="number" class="nb"  id="montant14_1"placeholder="   €"></td>
+                        <td>-<input type="number" class="nb" id="montant14_2" placeholder="   €"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" class="libelle" placeholder="..."></td>
+                        <td>+<input type="number" class="nb"  id="montant15_1"placeholder="   €"></td>
+                        <td>-<input type="number" class="nb" id="montant15_2" placeholder="   €"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" class="libelle" placeholder="..."></td>
+                        <td>+<input type="number" class="nb"  id="montant16_1"placeholder="   €"></td>
+                        <td>-<input type="number" class="nb" id="montant16_2" placeholder="   €"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" class="libelle" placeholder="..."></td>
+                        <td>+<input type="number" class="nb"  id="montant17_1"placeholder="   €"></td>
+                        <td>-<input type="number" class="nb" id="montant17_2" placeholder="   €"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" class="libelle" placeholder="..."></td>
+                        <td>+<input type="number" class="nb"  id="montant18_1"placeholder="   €"></td>
+                        <td>-<input type="number" class="nb" id="montant18_2" placeholder="   €"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" class="libelle" placeholder="..."></td>
+                        <td>+<input type="number" class="nb"  id="montant19_1"placeholder="   €"></td>
+                        <td>-<input type="number" class="nb" id="montant19_2" placeholder="   €"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" class="libelle" placeholder="..."></td>
+                        <td>+<input type="number" class="nb"  id="montant20_1"placeholder="   €"></td>
+                        <td>-<input type="number" class="nb" id="montant20_2" placeholder="   €"></td>
+                    </tr>
                 </tbody>
             </table>
         </div>
